@@ -1,0 +1,25 @@
+ #a1{ 
+    background-color: blue;
+    font-family: sans-serif;
+    color: aqua;
+    text-align: center;
+ }   
+#p1{
+background-color: black;
+color: blue;
+text-align: center;
+}
+#zero{
+   font-size: 10em;
+   border: 30px;
+}
+body{
+background-color: black;
+}
+#mmu{
+   color: black;
+   background-color: black;
+   text-align: center;
+   padding-left: 39%;
+}
+
